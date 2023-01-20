@@ -1,0 +1,5 @@
+python3 -m http.server
+/usr/bin/firefox --new-window http://www.cyberciti.biz/
+firefox --new-window http://0.0.0.0:8000/Desktop/wasmfiles/mutantprograms/sum.html -recording-output ~/Desktop/wasmfiles/htmlEnv/out
+
+source ./emsdk_env.sh
